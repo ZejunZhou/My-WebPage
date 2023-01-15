@@ -80,6 +80,7 @@ body{
     background-color: #d6e7f7;
     color:#004b84;
     padding: 8% 10%;
+    padding: 15%;
 }
 
 #about-me h1{
@@ -120,6 +121,7 @@ body{
 #Skill{
     background-color:#004b84;
     padding: 8% 10%;
+    padding-bottom: 15%;
     color: aliceblue;
 }
 
@@ -131,10 +133,38 @@ body{
 }
 
 .skill-container{
-    margin-top: 15%;
+    margin-top: 10%;
+    text-align: center;
 }
 
 .skill-item{
-    text-align: left;
+    display: inline-block;
+    background-color: #156cad;
+    padding: 20px;
+    width: 40%;
+    margin: 25px;
 }
+
+.skill-item p{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+@media(max-width:1000px){
+    .skill-container{
+        margin-top: 20%;
+    }
+
+    .skill-item{
+        display: block;
+        margin: auto;
+        margin-top: 5%;
+        padding: 10%;
+    }
+}
+
+
+
+
+
 
