@@ -243,6 +243,62 @@ p{
     margin-bottom: 6%;
 }
 
+/********Contact Section ********/
+#Contact{
+    padding: 3% 20%;
+    color: #004b84;
+    text-align: center;
+}
+
+#Contact h1{
+    margin-top: 10%;
+    font-weight: 900;
+    text-align: center;
+}
+
+#Contact h4{
+    font-weight: 700;
+    margin-top: 6%;
+}
+
+#Contact p{
+    margin-top: 6%;
+}
+
+/********Contact Section Class *****/
+
+#Contact .btn{
+    margin-top: 6%;
+    background-color: #004b84;
+    color: white;
+}
+
+#Contact a:hover{
+    background-color: #156cad;
+}
+
+
+/**********Footer*********/
+
+#Footer{
+    margin-top: 10%;
+    background-color: #004b84;
+    color: white;
+    text-align: center;
+    padding: 8%;
+}
+
+#Footer a{
+    margin: 4%;
+}
+
+#Footer p{
+    margin-top: 10%;
+}
+
+
+
+
 
 
 
