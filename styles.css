@@ -3,6 +3,10 @@ body{
     font-weight: 400;
 }
 
+p{
+    font-size: large;
+}
+
 /*******Home Section*******/
 
 #Homepage{
@@ -79,12 +83,11 @@ body{
 #about-me{
     background-color: #d6e7f7;
     color:#004b84;
-    padding: 8% 10%;
     padding: 15%;
 }
 
 #about-me h1{
-    font-weight: 700;
+    font-weight: 900;
     padding-bottom: 12%;
 }
 
@@ -128,7 +131,7 @@ body{
 
 /********Skill Class*****/
 #Skill h1{
-    font-weight: 700;
+    font-weight: 900;
     text-align: center;
 }
 
@@ -159,9 +162,73 @@ body{
         display: block;
         margin: auto;
         margin-top: 5%;
-        padding: 10%;
     }
 }
+
+
+/***************************
+
+
+/*******Experience Section*****/
+
+#Experience{
+    background-color: white;
+    color:#004b84;
+    padding: 10%;
+    line-height: 2;
+}
+
+
+/*******Experience Class****/
+#Experience h1{
+    text-align: center;
+    font-weight: 900;
+    margin-bottom: 10%;
+}
+
+#Experience h3{
+    font-weight: 700;
+}
+
+#Experience img{
+    width: 50%;
+}
+
+#Experience .row{
+    margin-bottom: 10%;
+}
+
+#Experience .content-box{
+    text-align: left;
+}
+
+#Experience .img-1,.img-2{
+    text-align: center;
+    margin: auto;
+}
+
+#Experience .content-box-title{
+    text-align: center;
+}
+
+@media(max-width:1000px){
+    #Experience .replace1{
+        text-align: center;
+        margin: auto;
+    }
+
+    #Experience .content-box{
+        margin-top: 5%;
+    }
+}
+
+
+
+
+
+
+
+
 
 
 
