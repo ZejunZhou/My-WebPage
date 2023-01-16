@@ -230,11 +230,19 @@ p{
     padding: 8% 10%;
 }
 
+/*******Project Class*********/
+
 #Project .card{
     background-color: #156cad;
+    margin: 5%;
 }
 
-/*******Project Class*********/
+#Project h1{
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 6%;
+}
+
 
 
 
