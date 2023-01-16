@@ -155,13 +155,14 @@ p{
 
 @media(max-width:1000px){
     .skill-container{
-        margin-top: 20%;
+        margin-top: 15%;
     }
 
     .skill-item{
         display: block;
         margin: auto;
-        margin-top: 5%;
+        margin-bottom: 10%;
+        width: 60%;
     }
 }
 
@@ -294,6 +295,10 @@ p{
 
 #Footer p{
     margin-top: 10%;
+}
+
+#Footer a:hover{
+    text-decoration: underline;
 }
 
 
