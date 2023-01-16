@@ -222,6 +222,22 @@ p{
     }
 }
 
+/*******Project Section********/
+
+#Project{
+    background-color: #004b84;
+    color: aliceblue;
+    padding: 8% 10%;
+}
+
+#Project .card{
+    background-color: #156cad;
+}
+
+/*******Project Class*********/
+
+
+
 
 
 
