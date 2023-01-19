@@ -238,6 +238,26 @@ p{
     margin: 5%;
 }
 
+#Project .card-title{
+    font-weight: 700;
+}
+
+#Project .card-footer{
+    border: none;
+    padding: 0;
+    background-color: #156cad;
+}
+
+#Project .card-links{
+    margin-top: 5%;
+}
+
+#Project a{
+    text-decoration: underline;
+    margin-left: 2%;
+}
+
+
 #Project h1{
     font-weight: 900;
     text-align: center;
