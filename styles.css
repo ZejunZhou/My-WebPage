@@ -253,11 +253,15 @@ p{
 }
 
 #Project a{
-    text-decoration: underline;
+    text-decoration: none;
     margin-left: 2%;
     color: white;
 }
 
+
+#Project a:hover{
+    text-decoration: underline;
+}
 
 #Project h1{
     font-weight: 900;
@@ -313,6 +317,7 @@ p{
 #Footer a{
     margin: 4%;
     color: white;
+    text-decoration: none;
 }
 
 #Footer p{
