@@ -11,7 +11,7 @@
 A responsive web page built to introduce my skills, experience, and projects. Designed by Canva and styled with CSS and Bootstrap framework.
 Added functionality using JavaScript and hosted through GitHub Page
 
-## CodeInstallation
+## Installation
 
 To run the script, make sure you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your machine.
 
