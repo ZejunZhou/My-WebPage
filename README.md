@@ -17,9 +17,9 @@ To run the script, make sure you have [Git](https://git-scm.com/book/en/v2/Getti
 
 Then, at your local computer
 ```
-git clone https://github.com/ZejunZhou/My-WebPage
+git clone https://github.com/ZejunZhou/My-WebPage.git
 
-cd ZejunZhou/My-WebPage
+cd My-WebPage
 ```
 
 ## Usage
